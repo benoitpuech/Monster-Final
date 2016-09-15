@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="egg">Oeuf :</string>
+    <string name="element">Type d\'élement :</string>
+    <string name="stats">Caractéristiques :</string>
+    <string name="death">Mort</string>
+    <string name="earth">Terre</string>
+    <string name="fire">Feu</string>
+    <string name="light">Lumière</string>
+    <string name="metal">Métal</string>
+    <string name="nature">Nature</string>
+    <string name="spirit">Magie</string>
+    <string name="thunder">Foudre</string>
+    <string name="water">Eau</string>
+    <string name="link_wiki">Apprenez en plus sur le wiki complet ici</string>
+</resources>

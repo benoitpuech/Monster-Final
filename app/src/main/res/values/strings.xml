@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Monster Legend Wiki</string>
+    <string name="egg">Egg :</string>
+    <string name="element">Element Type :</string>
+    <string name="stats">Stats</string>
+    <string name="fire">Fire</string>
+    <string name="spirit">Spirit</string>
+    <string name="light">Light</string>
+    <string name="water">Water</string>
+    <string name="metal">Metal</string>
+    <string name="nature">Nature</string>
+    <string name="earth">Earth</string>
+    <string name="thunder">Thunder</string>
+    <string name="death">Death</string>
+    <string name="link_wiki">You can see full  wiki here</string>
+</resources>
